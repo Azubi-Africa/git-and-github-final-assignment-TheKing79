@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |KasperProject   |Simple data Analysis           |       |https://github.com/TheKing79/KasperProject.git
+| 2 |VivaProject    |Simple calculation| https://github.com/TheKing79/VivaProject.git     |
+| 3 |CaeserCypherProject|Simple code cracking|https://github.com/TheKing79/CaeserCypherProject.git    |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
